@@ -1,2 +1,2 @@
 # Google-data-analytics-case-study
-This was a case study I had to do to get my google career certificate in data analytics. I was given a task to find out how different bike riders use a city bike service differently. 
+This was a case study I had to do to get my Google career certificate in data analytics. I was given a task to find out how different bike riders use a city bike service differently.  People with a membership were referred to as members, while non-members were referred to as casual riders. I was given a data set that contained trip data for a whole month. For this project, I used spreadsheets, R, Tableau, and PowerPoint to deliver a short presentation highlighting the differences in how members and casual riders used the service differently.
